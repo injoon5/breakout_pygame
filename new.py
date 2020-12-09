@@ -24,7 +24,7 @@ def fire(self):
 
 missiles = []
 
-Missile.fire()
+Missile.fire()#(?!)
 
 clock = pygame.time.Clock()
 while 1:
